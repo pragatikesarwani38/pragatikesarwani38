@@ -2,14 +2,11 @@
 
 
 - 🔭 I’m currently working on Android Development.
-- 🌱 I’m currently learning Kotlin and diving into Machine Learning as well.
+- 🌱 I’m currently working as an Android Developer Intern at AICTE.
 - 👯 I’m looking to collaborate on an android application.
-- 🤔 I’m looking for help with Machine Learning & Data Science.
-- 💬 Ask me about Web development, Java, PHP, and Android development, Open Source or even creative writing.
-- 📫 How to reach me: Instagram- [Instagram- @bleedin_ink_](https://instagram.com/bleedin_ink_)
 -  [Linkedin- Pragati Kesarwani](https://www.linkedin.com/in/pragati-kesarwani-46179a202/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: You don't need to be a bookworm to achieve your goals.
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=pragatikesarwani38&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
