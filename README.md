@@ -1,9 +1,8 @@
 ### Hi there, this is Pragati Kesarwani! 👋
 
 
-- 🔭 I’m currently working on Android Development.
-- 🌱 I’m currently working as an Android Developer Intern at AICTE.
-- 👯 I’m looking to collaborate on an android application.
+- 🔭 I’m currently working on MERN Stack.
+- 🌱 I’m currently working as a Jr.Asscoiate - Software Engingeer at Unthinkable Solutions.
 -  [Linkedin- Pragati Kesarwani](https://www.linkedin.com/in/pragati-kesarwani-46179a202/)
 - 😄 Pronouns: she/her
 
